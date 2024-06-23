@@ -8,3 +8,5 @@ INTERNSHIP DURATION: 1 MONTH [1 June - 1 July]
 MODE: ONLINE
 
 OFFER LETTER:-
+
+![Offer Letter](https://github.com/dhairya-gayakwad/CodeClause-Internship/assets/170263438/76fde40b-c724-41ec-8fed-72ee4d3590ba)
