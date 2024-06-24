@@ -10,8 +10,8 @@ Design an engaging social media post promoting travel destinations for a fiction
 The task was to create a social media post with captivating visuals and persuasive text to encourage travel. I focused on platform-specific design requirements to ensure the post was optimized for maximum engagement.
 
 <b>What I Learned:</b>
-- Social Media Graphic Design: Creating visually appealing content tailored to different social media platforms.
-- Content Promotion: Crafting persuasive messages to effectively promote travel destinations.
+- <b>Social Media Graphic Design:</b> Creating visually appealing content tailored to different social media platforms.
+- <b>Content Promotion:</b> Crafting persuasive messages to effectively promote travel destinations.
 
 <b>Tools I Used:</b>
 - Adobe PhotoShop
